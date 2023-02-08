@@ -6,16 +6,19 @@
 
 ## 🚀 About Me
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=tmdbts.tmdbts)
+<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=tmdbts.tmdbts) -->
+
+### Glad to see you here! &nbsp; ![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftmdbts%2F&countColor=%23263759&labelStyle=lower)
+
 🎓 I am Tiago Silva, a full-stack software engineer. I love programming, playing games and music. As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. Currently, my only hobby is playing music, from guitar to piano and all kinds of percussion.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning DevOps and Networks;
-- 💬 Ask me about anything, I am happy to help;
+-   👨🏻‍💻 I’m currently working on something cool;
+-   🚀 I’m currently learning DevOps and Networks;
+-   💬 Ask me about anything, I am happy to help;
 
 ## 🏅 Achievements
 
@@ -42,6 +45,7 @@
 ![Jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Front-End Development
+
 ![Node Badge](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![SQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,6 +68,7 @@
 ![WebStorm Badge](https://img.shields.io/badge/WebStrom-323330?style=for-the-badge&logo=webstorm&logoColor=white)
 
 ## 🎮 Gaming Setup
+
 ![Intel Badge](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Gtx-1660 Badge](https://img.shields.io/badge/NVIDIA-GTX_1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
