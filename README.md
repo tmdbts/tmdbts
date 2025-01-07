@@ -63,9 +63,8 @@
 ## 🖥️ Workspace Setup
 
 ![MacBook Badge](https://img.shields.io/badge/MacBook_Pro-000000?style=for-the-badge&logo=apple&logoColor=white)
-![vs-code Badge](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![nvim Badge](https://img.shields.io/badge/neovim-badge?style=for-the-badge&logo=neovim&color=%23000000)
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-323330?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WebStorm Badge](https://img.shields.io/badge/WebStrom-323330?style=for-the-badge&logo=webstorm&logoColor=white)
 
 ## 🎮 Gaming Setup
 
